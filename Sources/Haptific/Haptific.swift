@@ -1,6 +1,16 @@
-public struct Haptific {
-    public private(set) var text = "Hello, World!"
+//
+//  Haptific.swift
+//
+//
+//  Created by Vignesh on 06/03/23.
+//
 
-    public init() {
+import Foundation
+import UIKit
+
+public class Haptific {
+    static func simulateFeedback() {
+        let feedbackGenerator = UIImpactFeedbackGenerator()
+        feedbackGenerator.impactOccurred()
     }
 }

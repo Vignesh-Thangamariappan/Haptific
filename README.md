@@ -33,13 +33,7 @@ Haptific can be used to obtain simulate Haptic feedback on any iOS device.
 Haptific.simulate(.selection)
 ```
 
-### Identify whether the current device has a notch or not.
-
-```
-DeviceUtility.currentDevice.hasNotch
-```
-
-### Identify whether the current device is a phone, pad or mac(for catalyst).
+### Various type of Haptics.
 
 ```
 Haptific.simulate(.selection)

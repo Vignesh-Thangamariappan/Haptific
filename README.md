@@ -50,9 +50,14 @@ it, simply add the following line to your package.swift file:
 ```
 
 ## Author
-**Vignesh Thangamariappan**
+<a href="https://github.com/Vignesh-Thangamariappan" title="Vignesh-Thangamariappan">
+  <img src="https://avatars.githubusercontent.com/u/33475725?v=4" style="border-radius: 12%;" width="50;" alt="fw_qaq"/>
+</a>
 <br>
-<a href="mailto:vignesh.thangamariappan@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:vignesh.thangamariappan@gmail.com?">
+Vignesh Thangamariappan
+</a>
+<br>
 
 ## License
 

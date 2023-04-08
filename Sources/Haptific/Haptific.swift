@@ -13,7 +13,9 @@ public enum HapticType {
     case selection
     case notification(style: UINotificationFeedbackGenerator.FeedbackType)
 }
+
 public class Haptific {
+    
     private static func simulateImpactFeedback(style: UIImpactFeedbackGenerator.FeedbackStyle) {
         let feedbackGenerator = UIImpactFeedbackGenerator(style: style)
         feedbackGenerator.prepare()

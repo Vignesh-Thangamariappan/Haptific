@@ -1,9 +1,8 @@
+![haptific](https://user-images.githubusercontent.com/71421776/223750457-ba2e4aeb-5d51-4b3e-bf0f-594ef92f1f45.png)
+
 # Haptific
 
-Haptific makes your application more engaging and keeps your user feel the application as they use it. 
-Want to provide a better User Experience. Make use of Haptific, A framework that allows you to trigger feedbacks on the go! Your users would be delighted to touch and use various parts of your application.
-![Haptic Feedback](https://user-images.githubusercontent.com/33475725/223206909-817c524b-d49d-4e83-85a1-6b8c038b85a2.png)
-
+Haptific is a framework that enhances user experience by adding engaging touch feedback to your application, making it more interactive and enjoyable for users.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Platform-iOS10%2B-blue.svg" alt="Platform: iOS 10.0+" />
@@ -51,8 +50,14 @@ it, simply add the following line to your package.swift file:
 ```
 
 ## Author
-
-vignesh_thangamariappan, vignesh.thangamariappan@gmail.com
+<a href="https://github.com/Vignesh-Thangamariappan" title="Vignesh-Thangamariappan">
+  <img src="https://avatars.githubusercontent.com/u/33475725?v=4" style="border-radius: 12%;" width="50;" alt="fw_qaq"/>
+</a>
+<br>
+<a href="mailto:vignesh.thangamariappan@gmail.com?">
+Vignesh Thangamariappan
+</a>
+<br>
 
 ## License
 
